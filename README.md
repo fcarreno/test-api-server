@@ -12,5 +12,5 @@
 2. `npm install` (install dependencies)
 3. `npm start` (start API server)
 
-Run tests with `npm run test`
+Run tests with `npm test`
 
